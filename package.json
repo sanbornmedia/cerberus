@@ -1,0 +1,15 @@
+{
+  "name": "cerberus",
+  "version": "0.0.1",
+  "description": "A utility tool to help pull WPE installs from CodeGuard backups",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://smfsvn.git.beanstalkapp.com/sanborn-cerberus.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
